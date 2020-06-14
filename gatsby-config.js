@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://ccc.netlify.app`,
+        siteUrl: `https://counselingforchange.netlify.app`,
       },
     },
     `gatsby-plugin-styled-components`,
